@@ -10,6 +10,7 @@
   packages = [
     pkgs.git
     pkgs.deno
+    pkgs.gh
   ];
 
   languages.typescript.enable = true;
