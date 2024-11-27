@@ -1,0 +1,15 @@
+#root {
+    width: 100%;
+}
+.fuck-it {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    row-gap: 96px;
+    width: 100%;
+}
+
+.model-viewer {
+    width: 500px;
+    height: 500px;
+}
