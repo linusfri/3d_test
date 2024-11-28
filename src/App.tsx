@@ -78,6 +78,12 @@ function App() {
           exposure={0.2}
           cameraControls={true}
         />
+        <Model3D
+          src={'../3dmodels/PotOfCoals/glTF/PotOfCoals.gltf'}
+          alt="Avocado"
+          exposure={0.2}
+          cameraControls={true}
+        />
       </div>
     </>
   );
